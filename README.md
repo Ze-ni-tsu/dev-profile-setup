@@ -29,3 +29,8 @@ Tecnologías por aprender para mi futuro laboral:
   * Inglés B2/C1
   * Ingeniero Mecatrónico
   * Magister en Robótica
+
+## Tabla de Tecnologías
+
+| Tecnología | Categoría | Estado |
+| :--: | :--: | :--: |
