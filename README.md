@@ -34,3 +34,13 @@ Tecnologías por aprender para mi futuro laboral:
 
 | Tecnología | Categoría | Estado |
 | :--: | :--: | :--: |
+| Git & GitHub | Control de Versiones | Iniciado |
+
+## Checklist
+
+| Nivel | Tema | Requisito | Completado (OK) |
+| :--: | :--: | :--: | :--: |
+| 1 | 1.1 | dev-profile-setup | OK |
+| 1 | 1.2 | terminal-calculator-suite | |
+| 1 | 1.3 | unit-converter-cli | |
+| 1 | 1.4 | task-tracker-core | |
