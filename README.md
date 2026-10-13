@@ -51,4 +51,4 @@ Este Repositorio esta realizado con el apoyo teórico de Gemini IA, sin embargo 
 
 Los íconos fueron tomados de [Flaticon](https://www.flaticon.es/)
 <!-- markdownlint-disable MD033 -->
-<img src="/img/flaticon.png" alt="Logo de la página web Flaticon" width=100>
+<img src="/img/flaticon.png" alt="Logo de la página web Flaticon" width=50>
