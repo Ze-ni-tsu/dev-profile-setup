@@ -1,46 +1,54 @@
 # Meyer Romero, David Alejandro
 
-* **Rol objetivo:** Ingeniero Mecatrónico con Maestría en Robótica
+* **Rol objetivo:** Desarrollador de Software
 
 ## Perfil Técnico
 
-* Actualmente estudio el Tecnólogo en Análisis y Desarrollo de Software (de ahora en adelante ADSO) por medio de la institución educativa pública SENA.
+* Estudiante activo del Tecnólogo en Análisis y Desarrollo de Software (de ahora en adelante ADSO) por medio de la institución educativa pública SENA.
 
-* El siguiente paso el cual será el inicio de mi futuro, será ingresar a estudiar Ingeniería Mecatrónica y luego estudiar Maestría en Robótica.
-
-* El tecnólogo actual me permite entender la lógica de programación, conocer lenguajes y documentación necesaria para pasar de simplemente un "print" a programar la lógica y el "cerebro" de los futuros robots.
+* Tanto el tecnólogo actual como este proyecto autodidacta me permiten entender la lógica de programación, conocer lenguajes y documentación necesaria para pasar de simplemente un "print" a desarrollar programas que solucionen los diferentes inconvenientes que puedan presentarse en la sociedad.
 
 ## ROADMAP de Competencias
 
-Tecnologías por aprender para mi futuro laboral:
+Tecnologías aprendidas:
 
-* Linux Ubuntu (Terminal)
-* ROS 2
-* C++
 * Python
-* Data Base
-* Lógica
-* Backend
+* SQL
 
-## Metas de Ingeniería
+## Tabla de Roadmap
 
-* Mi meta actual es obtener el certificado como Tecnólogo en ADSO emitido por el Instituto Educativo **SENA**.
-* Sin embargo a mediano y largo plazo busco obtener los certificados de:
-  * Inglés B2/C1
-  * Ingeniero Mecatrónico
-  * Magister en Robótica
-
-## Tabla de Tecnologías
-
-| Tecnología | Categoría | Estado |
+| Nivel | Tema | Estado |
 | :--: | :--: | :--: |
-| Git & GitHub | Control de Versiones | Iniciado |
+| [Nivel 1](/Nivel%201/) | Lógica de Programación, Algoritmos y Control de Versiones | Finalizado |
+| [Nivel 2](/Nivel%202/) | Ingeniería de Requisitos, Análisis y Bases de Datos | En Proceso |
+| Nivel 3 | Desarrollo Web Fullstack Core | En Espera |
+| Nivel 4 | Arquitectura de Software, APIs, Pruebas y CI/CD | En Espera |
+| Nivel 5 | Programación de Sistemas Avanzados y Proyecto Capstone | En Espera |
 
 ## Checklist
 
-| Nivel | Tema | Requisito | Completado (OK) |
+### Nivel 1
+
+| Tema | Requisito | Lenguaje | Estado |
 | :--: | :--: | :--: | :--: |
-| 1 | 1.1 | dev-profile-setup | OK |
-| 1 | 1.2 | terminal-calculator-suite | |
-| 1 | 1.3 | unit-converter-cli | |
-| 1 | 1.4 | task-tracker-core | |
+| 1.1 | [dev-profile-setup](https://github.com/Ze-ni-tsu/dev-profile-setup) | Markdown | Finalizado |
+| 1.2 | [Script monitoreo telemetría](/Nivel%201/Tema%201.2/telemetry_monitor.py) | Python | Finalizado |
+| 1.3 | [Script Procesamiento de Sensor](/Nivel%201/Tema%201.3/sensor_processor.py) | Python | Finalizado |
+| 1.4 | [Task Tracker](/Nivel%201/Tema%201.4/task_tracker.py) | Python | Finalizado |
+
+### Nivel 2
+
+| Tema | Requisito | Lenguaje | Estado |
+| :--: | :--: | :--: | :--: |
+| 2.1 | [Script Base de Datos de Sistema de Inventario](/Nivel%202/Tema%202.1/inventory_system.sql) | SQL | Finalizado |
+| 2.2 | | | En Proceso |
+
+## Disclaimer
+
+Este Repositorio esta realizado con el apoyo teórico de Gemini IA, sin embargo el código publicado se hizo de manera autodidacta con el fin de progesar en los temas y lenguajes que se verán o se vieron dentro del Tecnólogo de Análisis y Desarrollo de Software del SENA.
+
+## Referencias
+
+Los íconos fueron tomados de [Flaticon](https://www.flaticon.es/)
+<!-- markdownlint-disable MD033 -->
+<img src="/img/flaticon.png" alt="Logo de la página web Flaticon" width=100>
