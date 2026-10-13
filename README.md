@@ -12,8 +12,9 @@
 
 Tecnologías aprendidas:
 
-* Python
-* SQL
+<!-- markdownlint-disable MD033 -->
+* Python <img src="/img/python.png" alt="Logo del lenguaje de programacion Python" width=20 style="max-width=100">
+* SQL <img src="/img/servidor-sql.png" alt="Logo del lenguaje de consulta estructurada SQL" width=20 style="max-width=100">
 
 ## Tabla de Roadmap
 
@@ -50,4 +51,4 @@ Este Repositorio esta realizado con el apoyo teórico de Gemini IA, sin embargo 
 ## Referencias
 
 <!-- markdownlint-disable MD033 -->
-Los íconos fueron tomados de [Flaticon](https://www.flaticon.es/) <img src="/img/flaticon.png" alt="Logo de la página web Flaticon" width=20 style="max-width=100">
+Los íconos fueron tomados de [Flaticon](https://www.flaticon.es/) <img src="/img/flaticon.png" alt="Logo de la pagina web Flaticon" width=20 style="max-width=100">
