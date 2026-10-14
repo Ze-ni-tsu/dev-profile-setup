@@ -51,4 +51,6 @@ Este Repositorio esta realizado con el apoyo teórico de ChatGPT AI, sin embargo
 ## Referencias
 
 <!-- markdownlint-disable MD033 -->
-Los íconos fueron tomados de [Flaticon](https://www.flaticon.es/) <img src="/img/flaticon.png" alt="Logo de la pagina web Flaticon" width=20 style="max-width=100">
+* Los íconos fueron tomados de [Flaticon](https://www.flaticon.es/) <img src="/img/flaticon.png" alt="Logo de la pagina web Flaticon" width=20 style="max-width=100">
+
+* El documento .gitignore fue creado con la ayuda de [gitignore.io](https://www.toptal.com/developers/gitignore)
