@@ -1,12 +1,12 @@
 # Meyer Romero, David Alejandro
 
-* **Rol objetivo:** Desarrollador de Software
+**Rol objetivo:** Desarrollador de Software
 
 ## Perfil Técnico
 
-* Estudiante activo del Tecnólogo en Análisis y Desarrollo de Software (de ahora en adelante ADSO) por medio de la institución educativa pública SENA.
+Estudiante de Tecnología en Análisis y Desarrollo de Software (ADSO) en el SENA, con experiencia en soporte a usuarios de una plataforma de seguridad social, donde manejé información confidencial bajo protocolos de verificación de identidad.
 
-* Tanto el tecnólogo actual como este proyecto autodidacta me permiten entender la lógica de programación, conocer lenguajes y documentación necesaria para pasar de simplemente un "print" a desarrollar programas que solucionen los diferentes inconvenientes que puedan presentarse en la sociedad.
+Sumo 10 credenciales en ciberseguridad, datos e IA de IBM y Cisco, obtenidas por mi cuenta mientras estudio.
 
 ## ROADMAP de Competencias
 
@@ -46,7 +46,7 @@ Tecnologías aprendidas:
 
 ## Disclaimer
 
-Este Repositorio esta realizado con el apoyo teórico de Gemini IA, sin embargo el código publicado se hizo de manera autodidacta con el fin de progesar en los temas y lenguajes que se verán o se vieron dentro del Tecnólogo de Análisis y Desarrollo de Software del SENA.
+Este Repositorio esta realizado con el apoyo teórico de ChatGPT AI, sin embargo el código publicado se hizo de manera autodidacta con el fin de progresar en los temas y lenguajes que se verán o se vieron dentro de ADSO.
 
 ## Referencias
 
